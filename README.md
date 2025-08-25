@@ -1,5 +1,4 @@
-# 📄 ATS Score & Suggestions — JavaScript Project
-
+# 📄 Resume ATS Score 
 A lightweight JavaScript tool that **scores resumes against job specs** (ATS-style) and **suggests what to add or remove** to improve match quality.
 
 > Works with plain text, PDF (via text extraction), and JSON-like resume inputs. Zero external APIs required.
