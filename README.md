@@ -1,9 +1,5 @@
 # 📄 Resume ATS Score 
-A lightweight JavaScript tool that **scores resumes against job specs** (ATS-style) and **suggests what to add or remove** to improve match quality.
-
-> Works with plain text, PDF (via text extraction), and JSON-like resume inputs. Zero external APIs required.
-
----
+A lightweight JavaScript tool that **scores resumes against job specs** (ATS-style) and **suggests what to add or remove** to improve match quality using both js and opencv ( on ggl collab ) when we porvide job description and resume.
 
 ## ✨ Features
 
@@ -20,7 +16,4 @@ A lightweight JavaScript tool that **scores resumes against job specs** (ATS-sty
   
 ---
 
-## 🧱 Tech Stack
-
-- **Runtime:** Js (>= 18)
-- **Lang:** JavaScript (both supported)
+Done by both python language and javascript language .
